@@ -1,6 +1,6 @@
 import React from 'react';
 import { ReactComponent as Clock } from '../../assets/time.svg';
-import './Card.css';
+import './Card.scss';
 
 function Card({ img, title, duration, highlight }) {
   return (

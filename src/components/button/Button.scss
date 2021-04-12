@@ -1,8 +1,10 @@
+@import '../../scss/variables';
+
 .default {
     padding: 16px;
     border-radius: 16px;
     border: none;
-    background-color: #f7f7f7;
+    background-color: $color-button;
     margin: 20px 0;
 }
 
@@ -11,5 +13,5 @@
     padding: 16px;
     border: 1px solid black;
     border-radius: 16px;
-    background-color: white;
+    background-color: $color-white;
 }

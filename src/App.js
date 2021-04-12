@@ -1,11 +1,9 @@
-// https://github.com/hogeschoolnovi/frontend-react-recipe-app
-
 import React from 'react';
 import { recipes } from './assets/recipes';
 import Card from './components/card/Card';
 import Header from './components/header/Header';
 import Button from './components/button/Button';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
